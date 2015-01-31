@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Gist Search CS290 Assignment 3</title>
+    <script src="gistSearch.js"></script>
+</head>
+<body>
+    <p>Favorites:</p>
+    <div id="favorites"></div>
+    <p>Select number of pages to display:</p>
+    <select id="selectPages">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+    </select>
+    <p>Select languages to display:</p>
+    <form>
+        <input type="checkbox" name="language" value="Python">Python<br>
+        <input type="checkbox" name="language" value="JSON">JSON<br>
+        <input type="checkbox" name="language" value="JavaScript">JavaScript<br>
+        <input type="checkbox" name="language" value="SQL">SQL<br>
+        <input type="button" name="submit" onclick="displayPages()" value="Search">
+    </form>
+    <div id="showGists"></div>
+</body>
+</html>

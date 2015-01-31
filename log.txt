@@ -1,0 +1,30 @@
+Start: Mon Jan 26, 2015 08:15 
+End: Mon Jan 26, 2015 09:13
+Tasks: Started to look at resources provided to get an idea
+of how to approach project. 
+
+Start: Mon Jan 26, 2015 17:55 
+End: Mon Jan 26, 2015 22:52
+Tasks: Continued to look for resources to help with this
+project.
+
+Start: Tue Jan 27, 2015 19:40 
+End: Tue Jan 27, 2015 22:13
+Tasks: Started adding to html file and js file.
+
+Start: Wed Jan 28, 2015 20:34 
+End:  Wed Jan 28, 2015 21:23
+Tasks: continued adding to html and js files.
+
+Start: Fri Jan 30, 2015 11:14
+End: Fri Jan 30, 2015 14:34
+Tasks: Continued adding to html and js files.
+
+Start: Fri Jan 30, 2015 17:53 
+End:  Fri Jan 30, 2015 21:35
+Tasks: Continued to add and edit html and js files.
+
+Start: Sat Jan 31, 2015 11:01
+End: Sat Jan 31, 2015 16:24
+Tasks: Finishing up editing and adding to html and js files.
+
